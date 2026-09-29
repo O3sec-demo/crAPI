@@ -1,5 +1,5 @@
 # crAPI
-<!-- rescan trigger -->
+<!-- rescan trigger once again bitchhh -->
 **c**ompletely **r**idiculous **API** (crAPI) will help you to understand the
 ten most critical API security risks. crAPI is vulnerable by design, but you'll
 be able to safely run it to educate/train yourself.
